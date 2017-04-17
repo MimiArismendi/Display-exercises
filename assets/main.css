@@ -1,0 +1,11 @@
+.textos{
+  background-color: yellow;
+  font-size: 30px;
+  padding-bottom: 10px;
+}
+
+#rojo{
+  background-color: red;
+  font-size: 30px;
+  border: 1px solid black;
+}
