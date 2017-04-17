@@ -1,11 +1,17 @@
 .textos{
   background-color: yellow;
-  font-size: 30px;
-  padding-bottom: 10px;
 }
 
 #rojo{
   background-color: red;
+
+}
+
+div{
+  display: block;
+  width: 300px;
+  height: 100px;
+  margin-left: 400px;
   font-size: 30px;
-  border: 1px solid black;
+  margin-bottom: 15px;
 }
